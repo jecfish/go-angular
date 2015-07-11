@@ -1,0 +1,8 @@
+<div class="" ng-controller="demoCtrl as ctrl">
+  <h2>Hello {{ctrl.name}}</h2>
+  <input type="text" ng-model="ctrl.name" />
+  <input type="button" name="name" value="Add friend" ng-click="ctrl.create(ctrl.name)">
+  <ul ng-repeat="friend in ctrl.list">
+    <li>{{friend | uppercase}} <input type="button" name="name" value="x" ng-click="ctrl.remove(friend)"></li>
+  </ul>
+</div>
