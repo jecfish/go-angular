@@ -15,11 +15,11 @@ Install: Project dependencies
 Run it
 ======
 5. Front end
-   a. Open command line: navigate to frontend folder, type "npm start"
-   b. Open browser: http://localhost:8080/
+   * Open command line: navigate to frontend folder, type "npm start"
+   * Open browser: http://localhost:8080/
 6. Back end
-   a. Open command line: navigate to backend folder, type "go run main.go"
-   b. Open browser: http://localhost:8000/friend/
+   * Open command line: navigate to backend folder, type "go run main.go"
+   * Open browser: http://localhost:8000/friend/
 
 
 **in case you hit any $GOPATH error while running go command, please follow instruction https://golang.org/doc/install
