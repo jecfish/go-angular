@@ -15,16 +15,16 @@ Install: Enviroment
 
 Install: Project dependencies
 =======
-3. Open command line: navigate to frontend folder, type "npm install"
-4. Open command line: navigate to backend folder, type "go get"
+3. Open command line/terminal: navigate to frontend folder, type "npm install"
+4. Open command line/terminal: navigate to backend folder, type "go get"
 
 Run it
 ======
 5. Front end
-   * Open command line: navigate to frontend folder, type "npm start"
+   * Open command line/terminal: navigate to frontend folder, type "npm start"
    * Open browser: http://localhost:8080/
 6. Back end
-   * Open command line: navigate to backend folder, type "go run main.go"
+   * Open command line/terminal: navigate to backend folder, type "go run main.go"
    * Open browser: http://localhost:8000/friend/
 
 
