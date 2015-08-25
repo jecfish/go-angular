@@ -1,5 +1,5 @@
 #Demo App for Angular 1.4 + GO
-
+Basic of use Angular front end and Go as back end language 
 Get, Add, Delete friends
 
 Install: Enviroment
